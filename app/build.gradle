@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.diaz_delgado'
+    namespace 'com.example.stockpilot'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.diaz_delgado"
+        applicationId "com.example.stockpilot"
         minSdk 23
         targetSdk 33
         versionCode 1

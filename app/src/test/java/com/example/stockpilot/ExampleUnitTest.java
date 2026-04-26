@@ -1,4 +1,4 @@
-package com.example.diaz_delgado;
+package com.example.stockpilot;
 
 import org.junit.Test;
 

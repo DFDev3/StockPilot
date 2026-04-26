@@ -1,9 +1,32 @@
 <resources>
-    <string name="app_name">Diaz_Delgado</string>
-    <string name="eliminar">Eliminar</string>
-    <string name="listprodtitle">listado de productos</string>
-    <string name="DetalleTitle">Detalle Producto</string>
-    <string name="clic">Clic</string>
-    <string name="clicbtn">Click BOTON</string>
-    <string name="agregar_produc_to">Agregar Produc to</string>
+    <string name="app_name">StockPilot</string>
+    <string name="app_tagline">Smarter catalog control</string>
+    <string name="product_list_title">Product Catalog</string>
+    <string name="product_list_subtitle">Track your catalog in one place</string>
+    <string name="product_detail_title">Product Detail</string>
+    <string name="add_product">Add Product</string>
+    <string name="logout">Log out</string>
+    <string name="remove">Remove</string>
+    <string name="product_removed_message">Removed: %1$s</string>
+
+    <string name="login_title">LOGIN</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="invalid_credentials">Invalid credentials</string>
+    <string name="login_banner_description">StockPilot banner</string>
+
+    <string name="product_name_hint">Product name</string>
+    <string name="product_price_hint">Price</string>
+    <string name="product_image_url_hint">Image URL</string>
+    <string name="save_product">Save Product</string>
+    <string name="fill_all_fields">Please complete all fields</string>
+    <string name="invalid_price">Please enter a valid price</string>
+    <string name="product_saved">Product saved successfully</string>
+    <string name="product_save_error">Error saving product</string>
+    <string name="product_not_found">Product not found</string>
+    <string name="product_price_label">Price</string>
+    <string name="product_form_title">Create a Product</string>
+    <string name="product_form_subtitle">Add a new item to your catalog</string>
 </resources>
